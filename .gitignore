@@ -1,0 +1,28 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment & Local files
+.env
+.env.local
+*.log
+
+# Maven & Java
+target/
+backend/target/
+.m2/
+*.class
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.sublime-project
+*.sublime-workspace
